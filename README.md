@@ -1,4 +1,4 @@
-# Robotics-Path-Planning-Multi-Vehicle-Movement-Sequence-Planning
+# Auto-Car-Cooperative-Path-Planning-02-Movement-Sequence-Planning
 Python codes for robotics Multi-Vehicle-Movement-Sequence-Planning algorithm.
 ## What is this?
 This is a Multi-Vehicle-Movement-Sequence-Planner. <br>
